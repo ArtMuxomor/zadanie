@@ -24,6 +24,6 @@ git commit -m "table header background color"
 **Задание 5**. Создайте пустой (без файлов) публичный удаленный репозиторий в своем аккаунте на GitHub. 
 **Задание 6**. Отправьте изменения на удаленный репозиторий. Если будет необходимость, настройте подключения к удаленному репозиторию.
 ```sh
+git remote set-url https://github.com/ArtMuxomor/zadanie.git
 git push https://github.com/ArtMuxomor/zadanie.git main
-git записать команду отправки изменений
 ```
