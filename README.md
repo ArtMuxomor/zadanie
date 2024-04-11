@@ -13,7 +13,7 @@ git clone https://github.com/teacher-fiit/GitCheatSheet
 
 **Задание 3**. Заполните второй столбец таблицы html-файла: после записи каждой ячейки индексируйте измененные файлы и выполняйте коммит.
 ```sh
-git add "filename"
+git add index.html
 git commit -m "comment"
 ```
 **Задание 4**. Дополните файл style.css. Индексируйте измененные файлы и выполните коммит.
