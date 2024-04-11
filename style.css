@@ -35,3 +35,7 @@ a.foo {
 tr th{
     background-color: deepskyblue;
 }
+
+tr td{
+    background-color: cornsilk;
+}
