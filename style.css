@@ -11,6 +11,10 @@ ol li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+div.exam {
+    text-shadow: 2px 2px 5px #789;
+}
+
 #table {
     line-height:200%
 }
