@@ -2,6 +2,7 @@
     justify-content: center;
     text-align:center;
 }
+
 ol li {
     list-style-position: inside;
 }
@@ -32,10 +33,11 @@ a.foo {
   color: white;
 }
 
-tr th{
+tr th {
     background-color: deepskyblue;
 }
 
-tr td{
+tr td {
     background-color: cornsilk;
+    padding: 0 10px;
 }
